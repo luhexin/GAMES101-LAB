@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "eigen": "cpp",
+        "array": "cpp",
+        "core": "cpp"
+    }
+}
